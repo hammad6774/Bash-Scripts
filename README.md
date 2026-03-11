@@ -1,6 +1,6 @@
 ## Assignments
 
-The assignments are given to me for practice.
+Practicing bash scripts
 
 #### Writing Bash Scripts
 ##### 1. First script I wrote was zipping all the files.
